@@ -1,4 +1,4 @@
 billthread
 ==========
 
-Simple threading test for Javascript
+Simple threading test for Javascript (just a quick test)
